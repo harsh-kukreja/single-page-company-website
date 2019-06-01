@@ -1,0 +1,17 @@
+//for coding
+favicon.cc
+favicon generator
+realfavicongenerator.net
+
+//for coding
+codepen.io
+jsfiddle.net
+
+//fonts
+fontsquirrel.com
+fontspair.co
+
+//google extention
+colorzilla
+google font previewer
+
